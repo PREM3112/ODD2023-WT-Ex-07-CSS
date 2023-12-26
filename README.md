@@ -101,12 +101,15 @@ Close the HTML Structure.
 ## OUTPUT :
 
 #(i)Default-screen
-![1](/media%20queries%201.png)
+![media queries 1](https://github.com/PREM3112/ODD2023-WT-Ex-07-CSS/assets/145449383/cf5b2c0d-79ae-4a89-be40-00c03af6cd18)
+
 
 #(i)Small-screen adaptation
-![2](/MEDIA%20QUERIES%202.png)
+![MEDIA QUERIES 2](https://github.com/PREM3112/ODD2023-WT-Ex-07-CSS/assets/145449383/8da34f8e-fcab-4b68-a7b3-be49f9f4f362)
+
 #(i)dark-mode
-![3](/MEDIA%203.png)
+![MEDIA 3](https://github.com/PREM3112/ODD2023-WT-Ex-07-CSS/assets/145449383/c9b120f9-0736-430c-8321-58317d1590c2)
+
 
 # Ex-07(ii)-css
 
@@ -174,9 +177,11 @@ End the HTML document by closing all open tags.
 # OUTPUT:
 
 #(ii)Desktop view
-![4](/media%20queries%207%20b.png)
+![media queries 7 b](https://github.com/PREM3112/ODD2023-WT-Ex-07-CSS/assets/145449383/a7236f09-0ea1-4152-a427-b63009618ad2)
+
 #(ii)Mobile view
-![5](/media%20queries%207b%202.png)
+![media queries 7b 2](https://github.com/PREM3112/ODD2023-WT-Ex-07-CSS/assets/145449383/fc926441-6e02-4de8-9174-69a461b999e7)
+
 
 # Ex-07(iii)-css orientation-based media query
 
@@ -243,9 +248,11 @@ Save your HTML file. Open your HTML file in a web browser and change the orienta
 # OUTPUT:
 
 #(iii)Landscape mode
-![5](/media%20queries%207c%201.png)
+![media queries 7c 1](https://github.com/PREM3112/ODD2023-WT-Ex-07-CSS/assets/145449383/198f4f15-e152-4acd-a0e4-106815fd6a98)
+
 #(iii)Portrait mode 
-![6](/media%20queries%207c%202.png)
+![media queries 7c 2](https://github.com/PREM3112/ODD2023-WT-Ex-07-CSS/assets/145449383/f4d980cd-39ce-4773-a9a9-961f43e0b388)
+
 
 # Ex-07(iv)-css responsive typography
 
@@ -355,11 +362,14 @@ Test your styles.
 # OUTPUT:
 
 #(iv)600px
-![7](/7d%201.png)
+![7d 1](https://github.com/PREM3112/ODD2023-WT-Ex-07-CSS/assets/145449383/ce05a78e-c2ef-4664-822b-791c301eb1fd)
+
 #(iv)900px
-![8](/7d%20%202.png)
+![7d  2](https://github.com/PREM3112/ODD2023-WT-Ex-07-CSS/assets/145449383/67f9bcfd-c3cc-40e6-a196-813044839f62)
+
 #(iv)1200px 
-![9](/7d%203.png)
+![7d 3](https://github.com/PREM3112/ODD2023-WT-Ex-07-CSS/assets/145449383/914fdd13-e52d-4707-ad11-7bd5f191b760)
+
 
 # Ex-07(v)-print-friendly css
 
@@ -438,9 +448,11 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
 # OUTPUT:
 
 #(v)Default page
-![10](/7e%201.png)
+![7e 1](https://github.com/PREM3112/ODD2023-WT-Ex-07-CSS/assets/145449383/bc70309c-5257-4e29-ab6d-b3150b879fcf)
+
 #(v)Display none
-![11](/7%20e%202.png)
+![7 e 2](https://github.com/PREM3112/ODD2023-WT-Ex-07-CSS/assets/145449383/58b71745-8866-45f3-834c-40bb11928d91)
+
 # Ex-07(vi)-Dark mode implementation
 
 # AIM:
@@ -518,6 +530,7 @@ Remember to test your website in both light and dark modes to ensure the colors 
 </html>
 ```
 # OUTPUT:
-![12](/7f.png)
+![7f](https://github.com/PREM3112/ODD2023-WT-Ex-07-CSS/assets/145449383/7ad03455-17da-441d-9a83-92350d0acdfd)
+
 # RESULT:
 thus the output got successfully.
